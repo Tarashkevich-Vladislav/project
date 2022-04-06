@@ -1,0 +1,11 @@
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\bin\Debug\OKM.exe.config
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\bin\Debug\OKM.exe
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\bin\Debug\OKM.pdb
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.csproj.AssemblyReference.cache
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.csproj.SuggestedBindingRedirects.cache
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.Form1.resources
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.Properties.Resources.resources
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.csproj.GenerateResource.cache
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.csproj.CoreCompileInputs.cache
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.exe
+C:\Users\vladl\Desktop\проект\app\WinForms.OKM\obj\Debug\OKM.pdb
